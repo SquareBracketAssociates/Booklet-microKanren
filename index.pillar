@@ -1,0 +1,22 @@
+!! Implementing MicroKanren
+
+MicroKanren is a system to learn unification, lazy streams, backtracking and optimization; the abstract definition was shown by Dan Friedman and Jason Hemann at Scheme'13, Alexandria.
+
+In this booklet you will learn MicroKanren concepts (logic programming....) by implementing them in Pharo. 
+The idea is that instead of presenting the theorical concepts first and implementing then in Pharo 
+we will do the inverse. We will show you some little examples using the microKanren implementation 
+of Pharo and we will show you then a limited amount of theory behind. 
+Then we will show how to define step by step microKanren in Pharo. 
+In particular we will visit: unification, 
+
+The code of microKanren in Pharo is available at: 
+[[[
+https://github.com/massimo-nocentini/microkanrenst
+]]]
+
+
+${inputFile:path=Chapters/WhatIsMicroKanren/WhatIsMicroKanren.pillar}$
+
+${inputFile:path=Chapters/Implementation/Implementation.pillar}$
+
+

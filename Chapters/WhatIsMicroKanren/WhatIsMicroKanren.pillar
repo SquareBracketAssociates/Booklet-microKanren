@@ -1,0 +1,17 @@
+!! What is MicroKanren
+
+In this chapter we will present microKanren using simple Pharo examples.
+Then we will discuss the examples and explain the theory behind.
+
+
+!!! Example 1
+
+[[[
+Fact new blah
+]]]
+
+!!! Example 2
+
+!!! Theorical
+
+!!! Another Example
