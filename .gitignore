@@ -1,0 +1,14 @@
+build/
+_result
+
+Pharo.changes
+Pharo.image
+
+pharo
+pharo-ui
+pharo-vm/
+
+pillar
+mustache
+*.log
+.DS_Store
