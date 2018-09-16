@@ -1,13 +1,13 @@
 {
     "package": {
-        "name": "booklet-minischeme",
+        "name": "booklet-microKanren",
         "repo": "wip",
         "subject": "squarebracketassociates",
         "desc": "Building a little functional language",
         "licenses": ["MIT"],
-        "website_url": "https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo",
-        "issue_tracker_url": "https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo/issues",
-        "vcs_url": "https://github.com/SquareBracketAssociates/Booklet-AMiniSchemeInPharo.git",
+        "website_url": "https://github.com/SquareBracketAssociates/Booklet-microKanren",
+        "issue_tracker_url": "https://github.com/SquareBracketAssociates/Booklet-microKanren/issues",
+        "vcs_url": "https://github.com/SquareBracketAssociates/Booklet-microKanren.git",
         "labels": ["work-in-progress"]
     },
 
@@ -18,8 +18,8 @@
 
     "files": [
         {
-            "includePattern": "_result/pdf/book.pdf",
-            "uploadPattern": "minischemebook-wip.pdf",
+            "includePattern": "_result/pdf/index.pdf",
+            "uploadPattern": "microKanren-wip.pdf",
             "matrixParams": { "override": 1 }
         }
     ],
